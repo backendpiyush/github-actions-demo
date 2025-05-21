@@ -2,25 +2,6 @@
 
 This repository contains a complete learning resource on **GitHub Actions**, designed for beginners and advancing through to more complex use cases. It includes core concepts, practical usage patterns, deployment strategies, optimization tips, and security best practices.
 
----
-
-## 📚 Table of Contents
-
-1. [GitHub Actions Fundamentals](#1-github-actions-fundamentals)
-2. [Workflow Configuration](#2-workflow-configuration)
-3. [Actions and Steps](#3-actions-and-steps)
-4. [Workflow Control](#4-workflow-control)
-5. [Working with Code](#5-working-with-code)
-6. [Deployment Workflows](#6-deployment-workflows)
-7. [Workflow Optimization](#7-workflow-optimization)
-8. [Security Practices](#8-security-practices)
-9. [Practical Patterns](#9-practical-patterns)
-10. [Workflow Debugging](#10-workflow-debugging)
-
----
-# 🧠 GitHub Actions: Essential Topics for Beginners
-
-This repository provides a comprehensive learning path covering all essential topics of GitHub Actions — from core concepts to advanced workflow design, security, and debugging.
 
 ---
 
